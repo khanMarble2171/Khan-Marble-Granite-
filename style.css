@@ -1,15 +1,7 @@
 body {
+    background-color: lightgray;
     font-family: Arial, sans-serif;
-    background-color: #f8f8f8;
-    margin: 0;
-    padding: 0;
-    text-align: center;
 }
-
 h1 {
-    color: #333;
-}
-
-p {
-    color: #666;
+    color: darkblue;
 }
