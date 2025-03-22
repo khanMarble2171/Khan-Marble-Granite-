@@ -1,7 +1,10 @@
+/* Google Font */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap');
+
 body {
-    background-color: lightgray;
-    font-family: Arial, sans-serif;
-}
-h1 {
-    color: darkblue;
+    font-family: 'Poppins', sans-serif;  /* Font Change */
+    margin: 0;
+    padding: 0;
+    background-color: #f8f9fa;  /* Light Gray Background */
+    color: #333;  /* Text Color */
 }
